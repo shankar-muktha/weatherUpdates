@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         errLbl.text! = ""
         // Do any additional setup after loading the view.
         print("aaa")
+        print("aaa")
     }
 
 
